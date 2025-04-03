@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000941451015",
+    "project_id": "gradeup-cab8f",
+    "storage_bucket": "gradeup-cab8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000941451015:android:520b23575f67b125cf77a2",
+        "android_client_info": {
+          "package_name": "com.example.swat1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DAvx2mEo3x3rkuyLjh3cyVOFdhwF3fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
